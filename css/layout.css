@@ -1,0 +1,97 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #fff;
+}
+
+a{
+    text-decoration: none;
+    color: #000000;
+}
+
+a:hover{
+    color: #00B4D8;
+}
+
+#container{
+    width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #000000;
+}
+
+#header{
+    width: 100%;
+    background-color: #005ce6;
+    padding-left: 10px;
+    padding-top: 0px;
+    color: #fff;
+    height: 50px;
+}
+
+#mainnav{
+    width: 100%;
+    background-color: #1a75ff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#mainnav ul{
+    margin: 0px 0px 0px 20px;
+    padding: 0px;
+    list-style-type: none;
+    border-left: 1px solid #ccc;
+}
+
+#mainnav li{
+    display: inline;
+    padding: 0, 10px;
+    border-right: 1px solid #ccc;
+}
+
+#mainnav li a{
+    text-decoration: none;
+    color: #242424;
+    font-weight: 700;
+}
+
+#mainnav li a:hover{
+    text-decoration: none;
+    color: #00B4D8;
+    background-color: #3385ff;
+    padding: 10px;
+}
+
+#sidebar{
+    
+}
+
+#contents{
+
+}
+
+#footer{
+    clear: both;
+    background-color: #003380;
+    width: 100%;
+    padding: 7px;
+}
+
+#footer span{
+    color: #fff;
+}
+
+.card-iphonexr img{
+    float: left;
+}
+
+.card-iphonexr{
+    background-color: #005ce6;
+    padding: 25px;
+    text-align: left;
+}
+
+.card-iphonexr h2{
+    padding-left: 18px;
+    float: left;
+    
+}
